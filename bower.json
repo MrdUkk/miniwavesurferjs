@@ -1,0 +1,14 @@
+{
+  "name": "miniwavesurfer.js",
+  "version": "4.6.0",
+  "homepage": "https://wavesurfer-js.org",
+  "authors": [
+    "katspaugh <katspaugh@gmail.com>"
+  ],
+  "description": "Navigable waveform built on Web Audio and Canvas",
+  "main": "dist/wavesurfer.js",
+  "keywords": [
+    "waveform", "audio", "music", "player"
+  ],
+  "license": "BSD-3-Clause"
+}
